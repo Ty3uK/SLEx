@@ -80,6 +80,8 @@
     <ClInclude Include="Headers\StormLib.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Sources\Archive.cpp" />
+    <ClCompile Include="Sources\Functions.cpp" />
     <ClCompile Include="Sources\Main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
